@@ -1,0 +1,17 @@
+/*Fix ui bug*/
+
+.MuiMenu-list {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.App {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/*style for change border-color in 'OptionSelectInput' component*/
+fieldset {
+    border-color: #7d7d7d !important;
+    border-radius: 30px !important;
+}
